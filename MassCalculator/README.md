@@ -2,7 +2,7 @@
 Projeto React + TypeScript
 Fazendo uma calculadora de IMC
 
-Projeto desenvolvido durande o Curso B7Web
+Projeto desenvolvido durante o Curso B7Web
 
 ### instalação
 `npm install`
