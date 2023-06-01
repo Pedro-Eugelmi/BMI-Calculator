@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-JS/MassCalculator/static/css/main.d3271fc4.css",
+    "main.js": "/React-JS/MassCalculator/static/js/main.ce064428.js",
+    "static/js/787.69441150.chunk.js": "/React-JS/MassCalculator/static/js/787.69441150.chunk.js",
+    "static/media/Logopedro.png": "/React-JS/MassCalculator/static/media/Logopedro.9d7c166e1982e0a5cc40.png",
+    "static/media/bmilogo.png": "/React-JS/MassCalculator/static/media/bmilogo.4f6144948781edeb26e7.png",
+    "index.html": "/React-JS/MassCalculator/index.html",
+    "main.d3271fc4.css.map": "/React-JS/MassCalculator/static/css/main.d3271fc4.css.map",
+    "main.ce064428.js.map": "/React-JS/MassCalculator/static/js/main.ce064428.js.map",
+    "787.69441150.chunk.js.map": "/React-JS/MassCalculator/static/js/787.69441150.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3271fc4.css",
+    "static/js/main.ce064428.js"
+  ]
+}
