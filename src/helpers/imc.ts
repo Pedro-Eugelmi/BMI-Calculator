@@ -21,6 +21,7 @@ export const calculateIMC = (height:number, weight:number) =>
             levelCopy.yourImc = parseFloat(imc.toFixed(2));
             return levelCopy
         }
+
     }
 
     return null;
