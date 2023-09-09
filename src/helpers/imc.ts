@@ -13,7 +13,7 @@ export const levels: level[] =
 {title:'Obesidade', color:'#C3423F', icon: 'down', imc:[30.1, 99]}
 ]
 
-export const calculateIMC = (height:number, weight:number) => 
+export const calculateIMC = (height:number, weight:number) =>   
 {   const imc = weight / (height * height);
     for(let i in levels)
     {   if(imc >= levels[i].imc[0] && imc <= levels[i].imc[1])
